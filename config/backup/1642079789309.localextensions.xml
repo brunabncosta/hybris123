@@ -2,7 +2,6 @@
   <extensions>
     <path dir='${HYBRIS_BIN_DIR}' autoload='false' />
 	
-	<!-- My new extension -->
-    <extension dir="../custom/concerttours"/>     
+	<extension dir="../custom/concerttours"/>
   </extensions>
 </hybrisconfig>
